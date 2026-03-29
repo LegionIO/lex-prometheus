@@ -10,7 +10,7 @@ Legion Extension that connects LegionIO to Prometheus via the HTTP API v1. Provi
 
 **GitHub**: https://github.com/LegionIO/lex-prometheus
 **License**: MIT
-**Version**: 0.1.0
+**Version**: 0.1.2
 
 ## Architecture
 
